@@ -1,7 +1,7 @@
 # Ola Booking Analysis - Power BI Dashboard
 
 ## 📷 Dashboard Screenshot
-_Add a screenshot of the Power BI dashboard here_
+![Image](https://github.com/user-attachments/assets/2cba2422-8ef2-4493-bf7a-033515227dc1)
 
 ---
 
